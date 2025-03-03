@@ -77,8 +77,3 @@ if (rs.next()) {
 ## Contributing
 Feel free to contribute to this project by submitting pull requests or reporting issues.
 
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any inquiries, reach out at [your email or GitHub profile].
